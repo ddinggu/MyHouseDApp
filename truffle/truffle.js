@@ -12,6 +12,7 @@
  *   },
  */
 
+ // ganache 통신을 위한 network option 설정 
 module.exports = {
   networks : {
     ganache : {
