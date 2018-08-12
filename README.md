@@ -27,5 +27,6 @@ truffle : [https://truffleframework.com/docs/truffle/overview]
 1. truffle 을 통한 컨트랙 migration , deploy testing 및 ganache와 연결
 2. 컨트랙트 기초 설계 
 3. event, truffle console, ABI, migrate, ganache deploy 숙지
+4. mocha, chai unit testing
 
 
