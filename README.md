@@ -5,22 +5,14 @@
 geth를 사용하기 위한 Go 설치방법 및 적용방법 : 
 [https://golang.org/doc/install]  안내 따라가기 
 
-이후, 
-$go version
-으로 확인
-
 geth 설치방법 및 적용 방법 : 
 [https://anpigon.github.io/ethereum-geth-install-for-mac-md/] 
 [https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac]
 [https://ethereum.github.io/go-ethereum/downloads/]
 
-이후, 
-$geth version
-으로 확인
-
-제네시스 블록 추출 및 적용 : 
-
-$ puppeth 를 이용
+제네시스 블록 추출 및 적용 : $ puppeth 를 이용
+ 
+truffle : [https://truffleframework.com/docs/truffle/overview]
 
 ---------------
 8/5  
@@ -29,5 +21,9 @@ $ puppeth 를 이용
 3. geth JavaScript Shell 을 통한 트랜잭션 및 api 사용 
 4. 데이터 타입 및 스마트 계약 이론 숙지 
 5. 가스, 옵코드, 컨트랙 최적화 
+
+--------------
+8/6 
+1. truffle 을 통한 컨트랙 migration , deploy testing 및 ganache와 연결
 
 
